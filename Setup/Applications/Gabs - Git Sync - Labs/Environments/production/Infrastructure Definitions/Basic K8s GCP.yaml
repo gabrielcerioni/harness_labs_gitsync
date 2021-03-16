@@ -5,5 +5,5 @@ deploymentType: KUBERNETES
 infrastructure:
 - type: DIRECT_KUBERNETES
   cloudProviderName: CS - Gabs - Kubernetes Cluster
-  namespace: changedviagit
+  namespace: githubsync
   releaseName: release-${infra.kubernetes.infraId}
