@@ -4,6 +4,6 @@ cloudProviderType: KUBERNETES_CLUSTER
 deploymentType: KUBERNETES
 infrastructure:
 - type: DIRECT_KUBERNETES
-  cloudProviderName: CS - Gabs - Kubernetes Cluster
+  cloudProviderName: CS - Gabs - GCP - Kubernetes Cluster
   namespace: githubsync
   releaseName: release-${infra.kubernetes.infraId}
